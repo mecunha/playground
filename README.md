@@ -1,4 +1,5 @@
 # Playground
+Elaine Cunha
 
 A place to play with `git`.
 
