@@ -1,4 +1,4 @@
-# Playground
+# Groundplay
 
 A place to play with `git`.
 
