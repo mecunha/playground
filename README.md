@@ -1,4 +1,4 @@
-# Playground
+# Victoria & Elaine's Playground
 
 A place to play with `git`.
 
